@@ -1,135 +1,199 @@
 #Requires AutoHotkey v2.0
 
 ; Initialize variables with default values
-clickIntervalMin := 342
-clickIntervalMax := 620
-scrollDelayMin := 80
-scrollDelayMax := 200
-mouseHoldMin := 70
-mouseHoldMax := 150
+clickIntervalMin := 10
+clickIntervalMax := 10
+scrollDelayMin := 10
+scrollDelayMax := 10
+mouseHoldMin := 10
+mouseHoldMax := 10
 shortBreakMin := 10
-shortBreakMax := 60
-mouseMoveStepsMin := 15
-mouseMoveStepsMax := 40
-clicksBeforeBreakMin := 50
-clicksBeforeBreakMax := 100
-pixelSearchErrorMargin := 3  ; Adjustable PixelSearch error margin
+shortBreakMax := 10
+mouseMoveStepsMin := 10
+mouseMoveStepsMax := 10
+clicksBeforeBreakMin := 10
+clicksBeforeBreakMax := 10
+pixelSearchErrorMargin := 10  ; Adjustable PixelSearch error margin
 
 ; Define the target color
-TargetColor := "0xFF00E7"
+TargetColor := "0xff00e7"
 
 Toggle := false
 ClickCount := 0
 
 ; Enhanced GUI for AHK v2
-Gui, New, , Auto Clicker Configuration
-Gui.Add("GroupBox", "x10 y10 w300 h100", "Click Intervals")
-Gui.Add("Text", "x20 y40", "Min (ms):")
-Gui.Add("Edit", "vClickIntervalMin w50 x100 y40", clickIntervalMin)
-Gui.Add("Text", "x170 y40", "Max (ms):")
-Gui.Add("Edit", "vClickIntervalMax w50 x250 y40", clickIntervalMax)
+#Requires AutoHotkey v2.0
 
-Gui.Add("GroupBox", "x10 y120 w300 h100", "Scroll Delay")
-Gui.Add("Text", "x20 y150", "Min (ms):")
-Gui.Add("Edit", "vScrollDelayMin w50 x100 y150", scrollDelayMin)
-Gui.Add("Text", "x170 y150", "Max (ms):")
-Gui.Add("Edit", "vScrollDelayMax w50 x250 y150", scrollDelayMax)
+MyGui := Gui()
+MyGui.Title := "Auto Clicker Configuration"
 
-Gui.Add("GroupBox", "x10 y230 w300 h100", "Mouse Hold Duration")
-Gui.Add("Text", "x20 y260", "Min (ms):")
-Gui.Add("Edit", "vMouseHoldMin w50 x100 y260", mouseHoldMin)
-Gui.Add("Text", "x170 y260", "Max (ms):")
-Gui.Add("Edit", "vMouseHoldMax w50 x250 y260", mouseHoldMax)
+MyGui.Add("GroupBox", "x10 y10 w300 h100", "Click Intervals")
+MyGui.Add("Text", "x20 y40", "Min (ms):")
+MyGui.Add("Edit", "vClickIntervalMin w50 x100 y40", clickIntervalMin)
+MyGui.Add("Text", "x170 y40", "Max (ms):")
+MyGui.Add("Edit", "vClickIntervalMax w50 x250 y40", clickIntervalMax)
 
-Gui.Add("GroupBox", "x10 y340 w300 h100", "Short Breaks")
-Gui.Add("Text", "x20 y370", "Min (ms):")
-Gui.Add("Edit", "vShortBreakMin w50 x100 y370", shortBreakMin)
-Gui.Add("Text", "x170 y370", "Max (ms):")
-Gui.Add("Edit", "vShortBreakMax w50 x250 y370", shortBreakMax)
+MyGui.Add("GroupBox", "x10 y120 w300 h100", "Scroll Delay")
+MyGui.Add("Text", "x20 y150", "Min (ms):")
+MyGui.Add("Edit", "vScrollDelayMin w50 x100 y150", scrollDelayMin)
+MyGui.Add("Text", "x170 y150", "Max (ms):")
+MyGui.Add("Edit", "vScrollDelayMax w50 x250 y150", scrollDelayMax)
 
-Gui.Add("GroupBox", "x10 y450 w300 h100", "Other Parameters")
-Gui.Add("Text", "x20 y480", "PixelSearch Error:")
-Gui.Add("Edit", "vPixelSearchErrorMargin w50 x150 y480", pixelSearchErrorMargin)
+MyGui.Add("GroupBox", "x10 y230 w300 h100", "Mouse Hold Duration")
+MyGui.Add("Text", "x20 y260", "Min (ms):")
+MyGui.Add("Edit", "vMouseHoldMin w50 x100 y260", mouseHoldMin)
+MyGui.Add("Text", "x170 y260", "Max (ms):")
+MyGui.Add("Edit", "vMouseHoldMax w50 x250 y260", mouseHoldMax)
 
-Gui.Add("Button", "x20 y560 w100 gStartClicking", "Start")
-Gui.Add("Button", "x140 y560 w100 gStopClicking", "Stop")
-Gui.Add("Button", "x260 y560 w100 gSaveConfig", "Save Config")
+MyGui.Add("GroupBox", "x10 y340 w300 h100", "Short Breaks")
+MyGui.Add("Text", "x20 y370", "Min (ms):")
+MyGui.Add("Edit", "vShortBreakMin w50 x100 y370", shortBreakMin)
+MyGui.Add("Text", "x170 y370", "Max (ms):")
+MyGui.Add("Edit", "vShortBreakMax w50 x250 y370", shortBreakMax)
 
-Gui.Add("Text", "vStatusIndicator x20 y610", "Status: Idle")
-Gui.Show()
+MyGui.Add("GroupBox", "x10 y450 w300 h100", "Other Parameters")
+MyGui.Add("Text", "x20 y480", "PixelSearch Error:")
+MyGui.Add("Edit", "vPixelSearchErrorMargin w50 x150 y480", pixelSearchErrorMargin)
 
-; Functions for GUI and core logic
-SubmitParameters() {
-    global clickIntervalMin, clickIntervalMax, scrollDelayMin, scrollDelayMax
-    global mouseHoldMin, mouseHoldMax, shortBreakMin, shortBreakMax, pixelSearchErrorMargin
-    Gui.Submit()
+MyGui.Add("Button", "x20 y560 w100", "Start").OnEvent("Click", StartClicking)
+MyGui.Add("Button", "x140 y560 w100", "Stop").OnEvent("Click", StopClicking)
+MyGui.Add("Button", "x260 y560 w100", "Save Config").OnEvent("Click", SaveConfig)
+
+StatusIndicator := MyGui.Add("Text", "x20 y610", "Status: Idle")
+
+MyGui.Show()
+
+; Functions
+SubmitParameters(*) {
+    SavedValues := MyGui.Submit(false)
+    clickIntervalMin := SavedValues.ClickIntervalMin
+    clickIntervalMax := SavedValues.ClickIntervalMax
+    scrollDelayMin := SavedValues.ScrollDelayMin
+    scrollDelayMax := SavedValues.ScrollDelayMax
+    mouseHoldMin := SavedValues.MouseHoldMin
+    mouseHoldMax := SavedValues.MouseHoldMax
+    shortBreakMin := SavedValues.ShortBreakMin
+    shortBreakMax := SavedValues.ShortBreakMax
+    pixelSearchErrorMargin := SavedValues.PixelSearchErrorMargin
 }
 
-ValidateParameters() {
-    global clickIntervalMin, clickIntervalMax, scrollDelayMin, scrollDelayMax
-    global mouseHoldMin, mouseHoldMax, shortBreakMin, shortBreakMax, clicksBeforeBreakMin, clicksBeforeBreakMax
-
-    if (clickIntervalMin > clickIntervalMax
-        || scrollDelayMin > scrollDelayMax
-        || mouseHoldMin > mouseHoldMax
-        || shortBreakMin > shortBreakMax
-        || clicksBeforeBreakMin > clicksBeforeBreakMax) {
-        MsgBox "Error: Invalid parameter configuration. Ensure Min values are less than Max values."
-        return false
-    }
-    return true
-}
-
-StartClicking() {
-    if (!ValidateParameters()) return ; Abort if parameters are invalid
+StartClicking(*) {
     global Toggle
+    SubmitParameters()
     Toggle := true
-    UpdateStatus("Clicking Started")
-    ClickRandom()
+    UpdateStatus("Running")
+    SetTimer(ClickRandom, 100)
 }
 
-StopClicking() {
-    global Toggle
-    if (!Toggle) return
+StopClicking(*) {
+    UpdateStatus("Stopped")
     Toggle := false
-    UpdateStatus("Idle")
-    MsgBox "Clicking has been stopped."
+    SetTimer(ClickRandom, 0)
+}
+
+SaveConfig(*) {
+    SubmitParameters()
+    ; Implement config saving logic here
 }
 
 UpdateStatus(message) {
-    GuiControl.Set("StatusIndicator", "Status: " message)
+    global StatusIndicator
+    StatusIndicator.Value := "Status: " . message
+    StatusIndicator.Redraw()
+    ; Force a GUI update
+    SetTimer(() => MyGui.Opt("+AlwaysOnTop"), -1)
+    SetTimer(() => MyGui.Opt("-AlwaysOnTop"), -50)
 }
 
+global lastMissed := false
+global recentAreas := []
+
 ClickRandom() {
-    try {
-        global Toggle, TargetColor, pixelSearchErrorMargin, ClickCount
-        global clickIntervalMin, clickIntervalMax, scrollDelayMin, scrollDelayMax
-        global mouseHoldMin, mouseHoldMax, clicksBeforeBreakMin, clicksBeforeBreakMax
-        global shortBreakMin, shortBreakMax
+    global Toggle, A_ScreenWidth, A_ScreenHeight, TargetColor, pixelSearchErrorMargin, ClickCount, lastMissed, recentAreas
 
-        if (!Toggle) return
-
-        ; Perform PixelSearch
-        if (!PixelSearch(&FoundX, &FoundY, 0, 0, A_ScreenWidth, A_ScreenHeight, TargetColor, pixelSearchErrorMargin)) {
-            UpdateStatus("Target color not found! Adjust settings.")
-            Sleep(Random(500, 1500)) ; Retry after a short delay
-            return
-        }
-
-        ClickWithImprecision(FoundX, FoundY)
-
-        ; Increment ClickCount and handle breaks
-        ClickCount++
-        if (ClickCount >= RandomClicksBeforeBreak()) {
-            Sleep(Random(shortBreakMin, shortBreakMax))
-            ClickCount := 0
-        }
-
-        ; Schedule next click with random interval
-        SetTimer(ClickRandom, Random(clickIntervalMin, clickIntervalMax))
-    } catch Exception {
-        LogError(Exception.Message)
+    if (!Toggle) {
+        SetTimer(ClickRandom, 0)
+        return
     }
+
+    try {
+        ; Decide whether to do a full screen search (10% chance)
+        if (Random(1, 100) <= 10) {
+            searchX := 0
+            searchY := 0
+            searchWidth := A_ScreenWidth
+            searchHeight := A_ScreenHeight
+        } else {
+            ; Dynamic area selection with central bias
+            loop {
+                cellWidth := A_ScreenWidth // Random(4, 6)
+                cellHeight := A_ScreenHeight // Random(4, 6)
+                
+                ; Bias towards center by adjusting random range
+                cellX := Random(cellWidth // 2, A_ScreenWidth - cellWidth) // cellWidth * cellWidth
+                cellY := Random(cellHeight // 2, A_ScreenHeight - cellHeight) // cellHeight * cellHeight
+            
+                searchX := cellX + Random(-cellWidth/8, cellWidth/8)
+                searchY := cellY + Random(-cellHeight/8, cellHeight/8)
+                searchWidth := cellWidth + Random(-cellWidth/8, cellWidth/8)
+                searchHeight := cellHeight + Random(-cellHeight/8, cellHeight/8)
+            
+                searchX := Max(0, Min(searchX, A_ScreenWidth - searchWidth))
+                searchY := Max(0, Min(searchY, A_ScreenHeight - searchHeight))
+            
+                areaKey := searchX . "," . searchY . "," . searchWidth . "," . searchHeight
+            
+                if (!HasValue(recentAreas, areaKey))
+                    break
+            }
+            ; Add to recent areas and remove oldest if more than 5
+            recentAreas.Push(areaKey)
+            if (recentAreas.Length > 5)
+                recentAreas.RemoveAt(1)
+        }
+
+        UpdateStatus("Searching in area: " . searchX . "," . searchY)
+
+        if (PixelSearch(&FoundX, &FoundY, searchX, searchY, searchX + searchWidth, searchY + searchHeight, TargetColor, pixelSearchErrorMargin)) {
+            UpdateStatus("Color found at " . FoundX . ", " . FoundY)
+            
+            if (lastMissed || Random(1, 100) > 10) {
+                ; Click accurately
+                ClickWithImprecision(FoundX, FoundY)
+                UpdateStatus("Clicked accurately at " . FoundX . ", " . FoundY)
+                lastMissed := false
+            } else {
+                ; Intentionally miss
+                UpdateStatus("Intentionally missed click")
+                lastMissed := true
+            }
+
+            ClickCount++
+            if (ClickCount >= RandomClicksBeforeBreak()) {
+                UpdateStatus("Taking a short break...")
+                Sleep(Random(shortBreakMin, shortBreakMax))
+                ClickCount := 0
+            }
+        } else {
+            UpdateStatus("Color not found in this area, trying again...")
+        }
+    } catch as e {
+        LogError("Error in ClickRandom: " . e.Message)
+    }
+
+    if (Toggle) {
+        nextInterval := Random(clickIntervalMin, clickIntervalMax)
+        UpdateStatus("Next search in " . nextInterval . "ms")
+        SetTimer(ClickRandom, -nextInterval)
+    }
+}
+
+; Helper function to check if a value exists in an array
+HasValue(haystack, needle) {
+    for index, value in haystack
+        if (value = needle)
+            return true
+    return false
 }
 
 ClickWithImprecision(x, y) {
@@ -189,19 +253,30 @@ BezierPoint(t, p0, p1, p2, p3) {
 }
 
 LogError(message) {
-    FileAppend "Error [" A_Now "]: " message "`n", "error_log.txt"
-    UpdateStatus("Error: " message)
+    FileAppend("Error [" . A_Now . "]: " . message . "`n", "error_log.txt")
+    UpdateStatus("Error: " . message)
 }
 
-Random(min, max) {
-    return Round(RandomFloat(min, max))
-}
+
 
 RandomFloat(min, max) {
-    return min + (max - min) * Rnd()
+    return min + (max - min) * Random(0.0, 1.0)
 }
+
+
+
 
 RandomClicksBeforeBreak() {
     global clicksBeforeBreakMin, clicksBeforeBreakMax
     return Random(clicksBeforeBreakMin, clicksBeforeBreakMax)
+}
+
+Esc::
+{
+    global Toggle
+    Toggle := false
+    SetTimer(ClickRandom, 0)
+    UpdateStatus("Emergency Stop - Exiting")
+    Sleep(500)  ; Give a moment for the status to update
+    ExitApp  ; This will completely terminate the script
 }
