@@ -1,4 +1,5 @@
 #Requires AutoHotkey v2.0
+#Include ControlColor.ahk
 
 ; Initialize variables with default values
 clickIntervalMin := 20
@@ -77,6 +78,13 @@ SubmitParameters(*) {
     pixelSearchErrorMargin := SavedValues.PixelSearchErrorMargin
 }
 
+
+FlashGui() {
+    originalColor := MyGui.BackColor
+    ControlColor.SetAll(MyGui, "0xc6a900")  ; Set to gold color
+    SetTimer(() => ControlColor.SetAll(MyGui, originalColor), -200)  ; Reset after 200ms
+}
+
 StartClicking(*) {
     global Toggle
     SubmitParameters()
@@ -86,24 +94,37 @@ StartClicking(*) {
 }
 
 StopClicking(*) {
-    UpdateStatus("Stopped")
+    global Toggle
     Toggle := false
     SetTimer(ClickRandom, 0)
+    UpdateStatus("Stopped")
 }
 
 SaveConfig(*) {
     SubmitParameters()
-    ; Implement config saving logic here
+    config := "clickIntervalMin=" . clickIntervalMin . "`n"
+             . "clickIntervalMax=" . clickIntervalMax . "`n"
+             ; ... add other parameters ...
+    try {
+        FileDelete("config.ini")
+        FileAppend(config, "config.ini")
+        UpdateStatus("Configuration Saved")
+        FlashGui()
+        SetTimer(() => UpdateStatus("Idle"), -2000)
+    } catch as err {
+        UpdateStatus("Error saving configuration: " . err.Message)
+    }
 }
 
 UpdateStatus(message) {
     global StatusIndicator
-    StatusIndicator.Value := "Status: " . message
+    StatusIndicator.Text := "Status: " . message
     StatusIndicator.Redraw()
-    ; Force a GUI update
-    SetTimer(() => MyGui.Opt("+AlwaysOnTop"), -1)
-    SetTimer(() => MyGui.Opt("-AlwaysOnTop"), -50)
+    MyGui.Opt("+AlwaysOnTop")
+    SetTimer(() => MyGui.Opt("-AlwaysOnTop"), -100)
 }
+
+
 
 global lastMissed := false
 global recentAreas := []
