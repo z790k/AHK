@@ -16,6 +16,11 @@ clicksBeforeBreakMin := 20
 clicksBeforeBreakMax := 20
 pixelSearchErrorMargin := 20  ; Adjustable PixelSearch error margin
 
+
+;global variables
+global Toggle, clickIntervalMin, clickIntervalMax
+
+
 ; Define the target color
 TargetColor := "0xff00e7"
 
@@ -215,8 +220,21 @@ HasValue(haystack, needle) {
 }
 
 ClickWithImprecision(x, y) {
-    ImpreciseX := x + Random(-3, 3)
-    ImpreciseY := y + Random(-3, 3)
+    ; Item dimensions (based on the image showing potion icons)
+    itemHeight := 32  ; Approximate height of each potion
+    itemWidth := 32   ; Approximate width of each potion
+    
+    ; Randomly decide whether to click middle area or precise location
+    if (Random(1, 100) <= 70) {  ; 70% chance to click within item bounds
+        ; Calculate random point within item boundaries
+        ImpreciseX := x + Random(-itemWidth/3, itemWidth/3)
+        ImpreciseY := y + Random(5, itemHeight-5)  ; Avoid edges
+    } else {
+        ; Original precise clicking with small variance
+        ImpreciseX := x + Random(-3, 3)
+        ImpreciseY := y + Random(-3, 3)
+    }
+    
     MouseMoveBezierWithOvershoot(ImpreciseX, ImpreciseY)
     ClickWithPressure()
 }
