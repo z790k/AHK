@@ -78,7 +78,6 @@ SubmitParameters(*) {
     pixelSearchErrorMargin := SavedValues.PixelSearchErrorMargin
 }
 
-
 FlashGui() {
     originalColor := MyGui.BackColor
     ControlColor.SetAll(MyGui, "0xc6a900")  ; Set to gold color
@@ -103,8 +102,8 @@ StopClicking(*) {
 SaveConfig(*) {
     SubmitParameters()
     config := "clickIntervalMin=" . clickIntervalMin . "`n"
-             . "clickIntervalMax=" . clickIntervalMax . "`n"
-             ; ... add other parameters ...
+        . "clickIntervalMax=" . clickIntervalMax . "`n"
+    ; ... add other parameters ...
     try {
         FileDelete("config.ini")
         FileAppend(config, "config.ini")
@@ -123,8 +122,6 @@ UpdateStatus(message) {
     MyGui.Opt("+AlwaysOnTop")
     SetTimer(() => MyGui.Opt("-AlwaysOnTop"), -100)
 }
-
-
 
 global lastMissed := false
 global recentAreas := []
@@ -149,21 +146,21 @@ ClickRandom() {
             loop {
                 cellWidth := A_ScreenWidth // Random(4, 6)
                 cellHeight := A_ScreenHeight // Random(4, 6)
-                
+
                 ; Bias towards center by adjusting random range
                 cellX := Random(cellWidth // 2, A_ScreenWidth - cellWidth) // cellWidth * cellWidth
                 cellY := Random(cellHeight // 2, A_ScreenHeight - cellHeight) // cellHeight * cellHeight
-            
-                searchX := cellX + Random(-cellWidth/8, cellWidth/8)
-                searchY := cellY + Random(-cellHeight/8, cellHeight/8)
-                searchWidth := cellWidth + Random(-cellWidth/8, cellWidth/8)
-                searchHeight := cellHeight + Random(-cellHeight/8, cellHeight/8)
-            
+
+                searchX := cellX + Random(-cellWidth / 8, cellWidth / 8)
+                searchY := cellY + Random(-cellHeight / 8, cellHeight / 8)
+                searchWidth := cellWidth + Random(-cellWidth / 8, cellWidth / 8)
+                searchHeight := cellHeight + Random(-cellHeight / 8, cellHeight / 8)
+
                 searchX := Max(0, Min(searchX, A_ScreenWidth - searchWidth))
                 searchY := Max(0, Min(searchY, A_ScreenHeight - searchHeight))
-            
+
                 areaKey := searchX . "," . searchY . "," . searchWidth . "," . searchHeight
-            
+
                 if (!HasValue(recentAreas, areaKey))
                     break
             }
@@ -177,7 +174,7 @@ ClickRandom() {
 
         if (PixelSearch(&FoundX, &FoundY, searchX, searchY, searchX + searchWidth, searchY + searchHeight, TargetColor, pixelSearchErrorMargin)) {
             UpdateStatus("Color found at " . FoundX . ", " . FoundY)
-            
+
             if (lastMissed || Random(1, 100) > 10) {
                 ; Click accurately
                 ClickWithImprecision(FoundX, FoundY)
@@ -270,7 +267,7 @@ EaseInOutQuad(t) {
 }
 
 BezierPoint(t, p0, p1, p2, p3) {
-    return (1 - t)**3 * p0 + 3 * (1 - t)**2 * t * p1 + 3 * (1 - t) * t**2 * p2 + t**3 * p3
+    return (1 - t) ** 3 * p0 + 3 * (1 - t) ** 2 * t * p1 + 3 * (1 - t) * t ** 2 * p2 + t ** 3 * p3
 }
 
 LogError(message) {
@@ -278,14 +275,9 @@ LogError(message) {
     UpdateStatus("Error: " . message)
 }
 
-
-
 RandomFloat(min, max) {
     return min + (max - min) * Random(0.0, 1.0)
 }
-
-
-
 
 RandomClicksBeforeBreak() {
     global clicksBeforeBreakMin, clicksBeforeBreakMax
