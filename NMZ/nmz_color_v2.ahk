@@ -1,19 +1,19 @@
 #Requires AutoHotkey v2.0
 
 ; Initialize variables with default values
-clickIntervalMin := 10
-clickIntervalMax := 10
-scrollDelayMin := 10
-scrollDelayMax := 10
-mouseHoldMin := 10
-mouseHoldMax := 10
-shortBreakMin := 10
-shortBreakMax := 10
-mouseMoveStepsMin := 10
-mouseMoveStepsMax := 10
-clicksBeforeBreakMin := 10
-clicksBeforeBreakMax := 10
-pixelSearchErrorMargin := 10  ; Adjustable PixelSearch error margin
+clickIntervalMin := 20
+clickIntervalMax := 20
+scrollDelayMin := 20
+scrollDelayMax := 20
+mouseHoldMin := 20
+mouseHoldMax := 20
+shortBreakMin := 20
+shortBreakMax := 20
+mouseMoveStepsMin := 20
+mouseMoveStepsMax := 20
+clicksBeforeBreakMin := 20
+clicksBeforeBreakMax := 20
+pixelSearchErrorMargin := 20  ; Adjustable PixelSearch error margin
 
 ; Define the target color
 TargetColor := "0xff00e7"
