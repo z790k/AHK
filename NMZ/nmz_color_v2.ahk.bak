@@ -22,14 +22,13 @@ global Toggle, clickIntervalMin, clickIntervalMax
 
 
 ; Define the target color
-TargetColor := "00FFFA"
+TargetColor := "27FF21"
 
 Toggle := false
 ClickCount := 0
 
 ; Enhanced GUI for AHK v2
 #Requires AutoHotkey v2.0
-
 
 MyGui := Gui()
 MyGui.Title := "Auto Clicker Configuration"
@@ -110,6 +109,7 @@ SaveConfig(*) {
     SubmitParameters()
     config := "clickIntervalMin=" . clickIntervalMin . "`n"
         . "clickIntervalMax=" . clickIntervalMax . "`n"
+    ; ... add other parameters ...
     try {
         FileDelete("config.ini")
         FileAppend(config, "config.ini")
@@ -204,7 +204,7 @@ ClickRandom() {
 
         if (PixelSearch(&FoundX, &FoundY, searchX, searchY, searchX + searchWidth, searchY + searchHeight, TargetColor, pixelSearchErrorMargin)) {
             UpdateStatus("Color found at " . FoundX . ", " . FoundY)
-
+            
             if (Random(1, 100) <= 10) {  ; 10% chance of a double-click
                 DoubleClickWithImprecision(FoundX, FoundY)
                 UpdateStatus("Double-clicked at " . FoundX . ", " . FoundY)
@@ -269,7 +269,7 @@ ClickWithImprecision(x, y) {
     ; Item dimensions (based on the image showing potion icons)
     itemHeight := 32  ; Approximate height of each potion
     itemWidth := 32   ; Approximate width of each potion
-
+    
     ; Randomly decide whether to click middle area or precise location
     if (Random(1, 100) <= 70) {  ; 70% chance to click within item bounds
         ; Calculate random point within item boundaries
@@ -280,7 +280,7 @@ ClickWithImprecision(x, y) {
         ImpreciseX := x + Random(-3, 3)
         ImpreciseY := y + Random(-3, 3)
     }
-
+    
     MouseMoveBezierWithOvershoot(ImpreciseX, ImpreciseY)
     ClickWithPressure()
 }
