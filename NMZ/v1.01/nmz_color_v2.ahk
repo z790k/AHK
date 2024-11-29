@@ -61,16 +61,16 @@ MyGui.Add("GroupBox", "x10 y450 w300 h100", "Other Parameters")
 MyGui.Add("Text", "x20 y480", "PixelSearch Error:")
 MyGui.Add("Edit", "vPixelSearchErrorMargin w50 x150 y480", pixelSearchErrorMargin)
 
-MyGui.Add("Button", "x20 y560 w100", "Start").OnEvent("Click", StartClicking)
-MyGui.Add("Button", "x140 y560 w100", "Stop").OnEvent("Click", StopClicking)
-MyGui.Add("Button", "x260 y560 w100", "Save Config").OnEvent("Click", SaveConfig)
+MyGui.Add("Button", "x20 y560 w100", "Start").OnEvent("Click", (*) => StartClicking())
+MyGui.Add("Button", "x140 y560 w100", "Stop").OnEvent("Click", (*) => StopClicking())
+MyGui.Add("Button", "x260 y560 w100", "Save Config").OnEvent("Click", (*) => SaveConfig())
 
 StatusIndicator := MyGui.Add("Text", "x20 y610", "Status: Idle")
 
 MyGui.Show()
 
 ; Functions
-SubmitParameters(*) {
+SubmitParameters() {
     SavedValues := MyGui.Submit(false)
     clickIntervalMin := SavedValues.ClickIntervalMin
     clickIntervalMax := SavedValues.ClickIntervalMax
@@ -89,7 +89,7 @@ FlashGui() {
     SetTimer(() => ControlColor.SetAll(MyGui, originalColor), -200)  ; Reset after 200ms
 }
 
-StartClicking(*) {
+StartClicking() {
     global Toggle
     SubmitParameters()
     Toggle := true
@@ -97,7 +97,7 @@ StartClicking(*) {
     SetTimer(ClickRandom, 100)
 }
 
-StopClicking(*) {
+StopClicking() {
     global Toggle
     Toggle := false
     SetTimer(ClickRandom, 0)
@@ -107,8 +107,15 @@ StopClicking(*) {
 SaveConfig(*) {
     SubmitParameters()
     config := "clickIntervalMin=" . clickIntervalMin . "`n"
-        . "clickIntervalMax=" . clickIntervalMax . "`n"
-    ; ... add other parameters ...
+            . "clickIntervalMax=" . clickIntervalMax . "`n"
+            . "scrollDelayMin=" . scrollDelayMin . "`n"
+            . "scrollDelayMax=" . scrollDelayMax . "`n"
+            . "mouseHoldMin=" . mouseHoldMin . "`n"
+            . "mouseHoldMax=" . mouseHoldMax . "`n"
+            . "shortBreakMin=" . shortBreakMin . "`n"
+            . "shortBreakMax=" . shortBreakMax . "`n"
+            . "pixelSearchErrorMargin=" . pixelSearchErrorMargin . "`n"
+
     try {
         FileDelete("config.ini")
         FileAppend(config, "config.ini")
