@@ -1,0 +1,655 @@
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085920]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085921]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085922]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129085923]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090438]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090439]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090439]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090439]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090439]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090439]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090440]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090440]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090440]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090440]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090440]: Error in ClickRandom: (6) The handle is invalid.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090517]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090518]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090519]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090523]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090524]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090525]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090526]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090529]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090530]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090531]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090532]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090537]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090537]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090537]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090537]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090537]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090542]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090543]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090544]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090545]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090548]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090548]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090548]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090548]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090549]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129090554]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091132]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091133]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091134]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.
+Error [20241129091135]: Error in ClickRandom: Parameter #7 of PixelSearch requires a Number, but received a String.

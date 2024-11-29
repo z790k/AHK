@@ -1,5 +1,5 @@
 #Requires AutoHotkey v2.0
-#Include ControlColor.ahk
+;#Include colorController.ahk
 
 ; Initialize variables with default values
 clickIntervalMin := 20
@@ -22,7 +22,7 @@ global Toggle, clickIntervalMin, clickIntervalMax
 
 
 ; Define the target color
-TargetColor := "0xff00e7"
+TargetColor := "27FF21"
 
 Toggle := false
 ClickCount := 0
@@ -83,18 +83,19 @@ SubmitParameters(*) {
     pixelSearchErrorMargin := SavedValues.PixelSearchErrorMargin
 }
 
-FlashGui() {
-    originalColor := MyGui.BackColor
-    ControlColor.SetAll(MyGui, "0xc6a900")  ; Set to gold color
-    SetTimer(() => ControlColor.SetAll(MyGui, originalColor), -200)  ; Reset after 200ms
-}
+;FlashGui() {
+    ;originalColor := MyGui.BackColor
+    ;colorController.SetAll(MyGui, "0xc6a900")  ; Set to gold color
+    ;SetTimer(() => colorController.SetAll(MyGui, originalColor), -200)  ; Reset after 200ms
+;}
 
 StartClicking(*) {
     global Toggle
     SubmitParameters()
     Toggle := true
-    UpdateStatus("Running")
+    UpdateStatus("Running - Toggle set to true")
     SetTimer(ClickRandom, 100)
+    UpdateStatus("Timer set for ClickRandom")
 }
 
 StopClicking(*) {
@@ -113,7 +114,7 @@ SaveConfig(*) {
         FileDelete("config.ini")
         FileAppend(config, "config.ini")
         UpdateStatus("Configuration Saved")
-        FlashGui()
+        ;FlashGui()
         SetTimer(() => UpdateStatus("Idle"), -2000)
     } catch as err {
         UpdateStatus("Error saving configuration: " . err.Message)
@@ -131,13 +132,37 @@ UpdateStatus(message) {
 global lastMissed := false
 global recentAreas := []
 
+GenerateClickIntervals(count := 10) {
+    intervals := []
+    Loop count {
+        intervals.Push(Random(clickIntervalMin, clickIntervalMax))
+    }
+    if (Random(1, 100) <= 20) {  ; 20% chance of a longer pause
+        intervals.Push(Random(2000, 5000))
+    }
+    return ShuffleArray(intervals)
+}
+
+ShuffleArray(arr) {
+    n := arr.Length
+    Loop n - 1 {
+        j := Random(A_Index, n)
+        temp := arr[A_Index]
+        arr[A_Index] := arr[j]
+        arr[j] := temp
+    }
+    return arr
+}
+
 ClickRandom() {
     global Toggle, A_ScreenWidth, A_ScreenHeight, TargetColor, pixelSearchErrorMargin, ClickCount, lastMissed, recentAreas
-
     if (!Toggle) {
         SetTimer(ClickRandom, 0)
+        UpdateStatus("ClickRandom stopped - Toggle is false")
         return
     }
+
+    UpdateStatus("ClickRandom running - searching for color")
 
     try {
         ; Decide whether to do a full screen search (10% chance)
@@ -179,22 +204,22 @@ ClickRandom() {
 
         if (PixelSearch(&FoundX, &FoundY, searchX, searchY, searchX + searchWidth, searchY + searchHeight, TargetColor, pixelSearchErrorMargin)) {
             UpdateStatus("Color found at " . FoundX . ", " . FoundY)
-
-            if (lastMissed || Random(1, 100) > 10) {
-                ; Click accurately
+            
+            if (Random(1, 100) <= 10) {  ; 10% chance of a double-click
+                DoubleClickWithImprecision(FoundX, FoundY)
+                UpdateStatus("Double-clicked at " . FoundX . ", " . FoundY)
+            } else if (lastMissed || Random(1, 100) > 10) {
                 ClickWithImprecision(FoundX, FoundY)
                 UpdateStatus("Clicked accurately at " . FoundX . ", " . FoundY)
                 lastMissed := false
             } else {
-                ; Intentionally miss
                 UpdateStatus("Intentionally missed click")
                 lastMissed := true
             }
 
             ClickCount++
             if (ClickCount >= RandomClicksBeforeBreak()) {
-                UpdateStatus("Taking a short break...")
-                Sleep(Random(shortBreakMin, shortBreakMax))
+                SimulateRandomActivity()
                 ClickCount := 0
             }
         } else {
@@ -209,6 +234,27 @@ ClickRandom() {
         UpdateStatus("Next search in " . nextInterval . "ms")
         SetTimer(ClickRandom, -nextInterval)
     }
+}
+
+
+DoubleClickWithImprecision(x, y) {
+    ClickWithImprecision(x, y)
+    Sleep(Random(50, 150))
+    ClickWithImprecision(x, y)
+}
+
+SimulateRandomActivity() {
+    pauseLength := Random(1000, 5000)
+    UpdateStatus("Taking a short break for " . pauseLength . "ms")
+    Sleep(pauseLength)
+
+    focusShiftDistance := Random(50, 200)
+    MouseGetPos(&currentX, &currentY)
+    newX := currentX + Random(-focusShiftDistance, focusShiftDistance)
+    newY := currentY + Random(-focusShiftDistance, focusShiftDistance)
+    MouseMoveBezier(newX, newY)
+    UpdateStatus("Shifted focus to " . newX . ", " . newY)
+    Sleep(Random(500, 1500))
 }
 
 ; Helper function to check if a value exists in an array
@@ -245,6 +291,8 @@ ClickWithPressure() {
     Sleep(Random(mouseHoldMin, mouseHoldMax))
     Click("Up")
 }
+
+
 
 MouseMoveBezierWithOvershoot(x, y) {
     global mouseMoveStepsMin, mouseMoveStepsMax
@@ -301,6 +349,8 @@ RandomClicksBeforeBreak() {
     global clicksBeforeBreakMin, clicksBeforeBreakMax
     return Random(clicksBeforeBreakMin, clicksBeforeBreakMax)
 }
+
+
 
 Esc::
 {

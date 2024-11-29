@@ -1,0 +1,9 @@
+add_hover_effects(target_x, target_y) {
+    Loop, 10 {
+        hover_x := target_x + Random(-5, 5)
+        hover_y := target_y + Random(-5, 5)
+        MouseMove, hover_x, hover_y
+        Sleep, 50  ; 50 ms hover duration
+    }
+    MouseMove, target_x, target_y
+}

@@ -1,0 +1,9 @@
+def simulate_micro_movements(start_x, start_y, end_x, end_y, steps=10):
+    distance_x = end_x - start_x
+    distance_y = end_y - start_y
+
+    for step in range(steps):
+        micro_x = start_x + (distance_x * (step / steps)) + Random(-1, 1)
+        micro_y = start_y + (distance_y * (step / steps)) + Random(-1, 1)
+        MouseMove(micro_x, micro_y)
+        Sleep(Random(10, 30))  ; Sleep between 10-30 ms

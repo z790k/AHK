@@ -1,0 +1,42 @@
+ClickRandom(step := 2) {
+    ; Access global variables
+    global Toggle, TargetColor, A_ScreenWidth, A_ScreenHeight
+    
+    ; Check if the function is toggled on
+    if (!Toggle) {
+        return
+    }
+
+    ; Initialize an array to store positions where the target color is found
+    ColorPositions := []
+
+    ; Create a new instance of ShinsImageScanClass for efficient pixel scanning
+    scan := new ShinsImageScanClass()
+    
+    ; Disable automatic updates to improve performance
+    scan.AutoUpdate := 0
+    
+    ; Manually update the scan to capture the current screen state
+    scan.Update()
+
+    ; Outer loop: iterate through x-coordinates
+    Loop, % (A_ScreenWidth / step) {
+        ; Calculate the x-coordinate based on the current step
+        x := (A_Index - 1) * step
+        
+        ; Inner loop: iterate through y-coordinates
+        Loop, % (A_ScreenHeight / step) {
+            ; Calculate the y-coordinate based on the current step
+            y := (A_Index - 1) * step
+            
+            ; Check if the pixel at (x, y) matches the target color
+            if (scan.PixelRegion(TargetColor, x, y, 1, 1)) {
+                ; If a match is found, add the coordinates to the ColorPositions array
+                ColorPositions.Push({x: x, y: y})
+            }
+        }
+    }
+
+    ; Return the array of positions where the target color was found
+    return ColorPositions
+}

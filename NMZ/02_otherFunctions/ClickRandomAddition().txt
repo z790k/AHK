@@ -1,0 +1,21 @@
+ClickRandom() {
+    ; ... (your existing code for finding color positions)
+
+    if (ColorPositions.Length() > 0) {
+        ; Select a random position from found colors
+        randomIndex := Random(1, ColorPositions.Length())
+        targetPos := ColorPositions[randomIndex]
+
+        ; Use Bezier curve to move to the target (assuming you have this implemented)
+        MoveToBezier(targetPos.x, targetPos.y)
+
+        ; Add hover effect
+        add_hover_effects(targetPos.x, targetPos.y)
+
+        ; Perform micro-movements before clicking
+        simulate_micro_movements(targetPos.x - 5, targetPos.y - 5, targetPos.x, targetPos.y)
+
+        ; Finally, click
+        Click
+    }
+}
